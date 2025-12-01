@@ -7,7 +7,7 @@
 
 ## Otras tematicas
 
-* [[Refranes](https://github.com/webmastervetea/refranes)]. Refranes organizados por categorias.
+* [[Refranes](https://github.com/webmastervetea/refranes)] organizados por categorias.
 
 
 
