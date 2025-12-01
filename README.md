@@ -8,6 +8,8 @@
 ## Otras tematicas
 
 * [[Refranes](https://github.com/webmastervetea/refranes)] organizados por categorias.
+    1/12/2025: [[Releases](https://github.com/webmastervetea/refranes/releases/tag/refranes)] 
+    
 
 
 
