@@ -7,7 +7,7 @@
 * [[Python](https://github.com/webmastervetea/Python)]. Aplicaciones en Python
 
 ## Otras tematicas
-
+* [[Cuentos infantiles](https://github.com/webmastervetea/cuentos-infantiles)]
 * [[Refranes](https://github.com/webmastervetea/refranes)] organizados por categorias.
     * V1.0 [[Releases](https://github.com/webmastervetea/refranes/releases/tag/refranes)] 1/12/2025
     
